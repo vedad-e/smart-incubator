@@ -17,5 +17,3 @@ When the temperature rises above a certain threshold, the fan starts working to 
 When the temperature is below 27 degrees, the green LEDs are lit, indicating that the temperature inside the incubator is satisfactory.
 If the temperature is between 27 and 30 degrees, the green LEDs are turned off and the fan is turned on until the temperature drops below 27 degrees.
 In the case of a critical temperature above 30 degrees, an alarm (buzzer) lights up and the red LEDs start flashing.
-
-### Photos of the project
